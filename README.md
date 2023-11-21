@@ -1,0 +1,7 @@
+- About Me:
+-----------------------------------------------------------------
+- Hi, I’m Zpeaxirious
+- I’m interested in Games, Music Producing and Content Creation
+- I’m currently learning to code Lua, Python and JS
+- How to reach me: zpeaxirious@protonmail.com
+-----------------------------------------------------------------
