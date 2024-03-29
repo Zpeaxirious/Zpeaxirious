@@ -1,7 +1,7 @@
 - About Me:
 -----------------------------------------------------------------
 - Hi, I’m Zpeaxirious
-- I’m interested in Games, Music Producing and Content Creation
+- I’m interested in Playing Piano, Music Production & Streaming
 - I’m currently learning to code Lua, Python and JS
 - How to reach me: zpeaxirious@protonmail.com
 -----------------------------------------------------------------
