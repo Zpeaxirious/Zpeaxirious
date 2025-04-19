@@ -1,7 +1,9 @@
-- About Me:
 -----------------------------------------------------------------
-- Hi, I’m Zpeaxirious
-- I’m interested in Playing Piano, Music Production & Vtubing
-- I’m currently learning to code Python and Java
-- How to reach me: zpeaxirious@protonmail.com
+- My name is Zee, though my global username is zpeaxirious.
+- I’m interested in playing the piano, music production & vtubing
+- I’m currently learning Python, React and C#
+- Discord: zpeaxirious
+- Mail: zpeaxirious@yumeverse.net
+
+- PS: I have autism, thrombocytopenia and social anxiety. alAnd an allergic to tomatoes and silicone. My body is also sensitive against salt and tonic
 -----------------------------------------------------------------
