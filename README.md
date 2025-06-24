@@ -1,7 +1,7 @@
 ---
 - My name is Zee, though my global username is zpeaxirious.
 - I’m interested in playing the piano, music production & vtubing
-- I’m currently learning Python, React and C#
+- I’m currently learning Python, Javascript, Typescript and Yarn
 - Discord: zpeaxirious
 - Mail: zpeaxirious@yumeverse.net
 
