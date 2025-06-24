@@ -5,5 +5,5 @@
 - Discord: zpeaxirious
 - Mail: zpeaxirious@yumeverse.net
 
-- PS: I have autism, thrombocytopenia and social anxiety. alAnd an allergic to tomatoes and silicone. My body is also sensitive against salt and tonic
+- PS: I have autism, thrombocytopenia and social anxiety. And an allergic to tomatoes and silicone. My body is also sensitive against salt and tonic
 -----------------------------------------------------------------
